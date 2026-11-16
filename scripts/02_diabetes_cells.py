@@ -235,3 +235,5 @@ with pd.ExcelWriter(OUTPUT_DIR / "diabetes_analysis.xlsx") as writer:
         sheet.add_image(Image(OUTPUT_DIR / f"{name}.png"), f"A{1 + 25 * i}")
 
 print(f"Analysis exported to {OUTPUT_DIR}")
+
+# %%

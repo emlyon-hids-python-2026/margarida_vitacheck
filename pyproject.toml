@@ -1,10 +1,10 @@
 [project]
-name = "do-course06"
+name = "margarida-course06"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Cao Tri DO", email = "do@em-lyon.com" }
+    { name = "Margarida", email = "maria.liragomes@edu.em-lyon.com" }
 ]
 requires-python = ">=3.14"
 dependencies = [
@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [project.scripts]
-do-course06 = "do_course06:main"
+margarida-course06 = "margarida_course06:main"
 
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]

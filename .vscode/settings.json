@@ -68,5 +68,6 @@
         {
             "text": "Write the commit message following the Conventional Commits specification: <type>(<optional scope>): <description>. Allowed types: feat, fix, docs, style, refactor, perf, test, build, ci, chore. Description in the imperative mood, lowercase, no trailing period, 72 characters maximum. Add a body only if necessary, separated by a blank line. Write in English."
         }
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }

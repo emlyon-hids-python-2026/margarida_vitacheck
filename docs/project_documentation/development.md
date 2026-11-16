@@ -86,6 +86,6 @@ When you change a number or a question, change it in the versions that compute i
 
 - The numbers in [results.md](results.md) are written by hand from the outputs: update them if the data changes.
 - Versions 1-3 hard-code the file names and the two-part structure; only the app accepts any number of parts.
-- `src/do_course06/` is the package created by `uv init`; it is not used by the analysis.
+- `src/margarida_course06/` is the package created by `uv init`; it is not used by the analysis.
 - The Excel sheet names differ between the scripts (`technical_q1_shapes`, `technical_q5_describe`) and the app
   (`shapes`, `describe`).

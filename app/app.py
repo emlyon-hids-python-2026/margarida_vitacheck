@@ -425,8 +425,8 @@ def display_header() -> None:
                 lets you filter the patients and export the results.
             </p>
             <p class="app-author">
-                Author: Cao Tri DO ·
-                <a href="mailto:do@em-lyon.com">do@em-lyon.com</a>
+                Author: Margarida ·
+                <a href="mailto:maria.liragomes@edu.em-lyon.com">maria.liragomes@edu.em-lyon.com</a>
             </p>
         </div>
         """,

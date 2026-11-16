@@ -12,7 +12,7 @@
 
 ```bash
 git clone <repository-url>
-cd do_course06
+cd margarida_course06
 uv sync
 ```
 
