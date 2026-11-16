@@ -192,4 +192,4 @@ More in [docs/project_documentation/development.md](docs/project_documentation/d
 
 ## Author
 
-Margarida - [maria.liragomes@edu.em-lyon.com](mailto:maria.liragomes@edu.em-lyon.com)
+Margarida Belo - [maria.liragomes@edu.em-lyon.com](mailto:maria.liragomes@edu.em-lyon.com)
